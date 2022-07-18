@@ -2,7 +2,7 @@
  Joker Landing Page UI Design.
  
  
-![Project Print](/)
+![Project Print](/print.jpg)
  
 
 ## Project Link / Link do Projeto
