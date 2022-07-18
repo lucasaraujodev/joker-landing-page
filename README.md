@@ -2,11 +2,11 @@
  Joker Landing Page UI Design.
  
  
-![Project Print](/.png)
+![Project Print](/)
  
 
 ## Project Link / Link do Projeto
- * https://lucasaraujodev.github.io/3d-social-media-icons/
+ * https://lucasaraujodev.github.io/joker-landing-page/
  
 
 ## For this project, I used / Para este projeto, utilizei:
